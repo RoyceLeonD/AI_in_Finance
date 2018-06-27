@@ -1,6 +1,6 @@
 # Overview
 
-This is the code for [this](https://youtu.be/7vunJlqLZok) video on Youtube by Siraj Raval. 
+This is the code bootstrapped from [this](https://youtu.be/7vunJlqLZok) video on Youtube by Siraj Raval. 
 
 StockIT is a machine learning web app game that allows the user to compete agiainst the AI in buying/selling stocks. Random stocks are chosen and a random date in the past is chosen. The stock price starts trending from that date and continues for 365 days. While the stock price trends, the user competes against the AI in buying/selling stocks.
 
@@ -46,6 +46,10 @@ Now you are all set up!
 ## Authors
 
 Austin Tackaberry
+
+## Changelog by RLD
+
+-Sentiment changes that predict the movement fo the market
 
 ## License
 
